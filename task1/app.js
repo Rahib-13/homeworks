@@ -230,14 +230,14 @@ const users=[
       }
     }
   ]
-
+// A: ela
  users.forEach((user)=>{
     document.write("<p> Username : "  + user.username +"</p>" );
     document.write("<p> Email : " + user.email +"</p>");
     document.write("<p> Company Name : " + user.company.name +"</p>" + "</br>");
  });
 
-
+// A: mohtesem :)
  let userName = prompt("bir username yazin")
  let user = users.find(user => user.username === userName)
  console.log(user || "Bele adam yoxdu yalan danisma");
