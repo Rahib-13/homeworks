@@ -1,3 +1,4 @@
+// A: daha qisa yaza bilersen. 
 let redB=document.querySelector(".red")
 let greenB=document.querySelector(".green")
 let blueB=document.querySelector(".blue")
