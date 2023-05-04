@@ -1,4 +1,4 @@
-
+// A: dogru
 let body=document.querySelector("body");
 
 function randombg(){
@@ -17,7 +17,7 @@ randombg()
 
 
 // !oz fikrim (alnmadi)
-
+// A: cunki, massiv-den goturmemisen. sadece, random dedi tapib variable-a menimsetmisen
 // console.log(images.length);
 
 // function getRandomNum(min, max) {
